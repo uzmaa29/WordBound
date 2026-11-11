@@ -16,4 +16,4 @@ HTML, CSS and vanilla JavaScript. No frameworks.
 Open index.html in a browser.
 
 ## Live demo
-Add your Vercel link here.
+link
