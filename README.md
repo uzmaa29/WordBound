@@ -14,6 +14,6 @@ HTML, CSS and vanilla JavaScript. No frameworks.
 
 ## Play it here!
 [Play!](https://playwordbound.vercel.app/)
-<br>OR
+
 ## Run locally
 Open index.html in a browser.
