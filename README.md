@@ -12,8 +12,8 @@ A word ladder puzzle game. Change one letter at a time to turn the start word in
 ## Tech
 HTML, CSS and vanilla JavaScript. No frameworks.
 
+## Play it here!
+[Play!](https://playwordbound.vercel.app/)
+OR
 ## Run locally
 Open index.html in a browser.
-
-## Live demo
-[Play!](https://playwordbound.vercel.app/)
